@@ -30,7 +30,7 @@ class Death(Scene):
 	quips = [
 		"You died. You kinda suck at this lol.",
 		"Your mom would be proud... if she were smarter.",
-		"Such a loser.",
+		"Such a loser lol.",
 		"I have a small puppy that's better at this."]
 
 	def enter(self):
